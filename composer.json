@@ -1,0 +1,21 @@
+{
+    "name": "platx/yii2-copy-attributes-behavior",
+    "description": "Copies values to attributes from other attributes",
+    "type": "yii2-extension",
+    "keywords": ["yii2","behavior","copy attributes"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladyslav Platonov",
+            "email": "vlad@plat-x.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "platx\\copyattributes\\": ""
+        }
+    }
+}
